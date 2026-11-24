@@ -1,0 +1,16 @@
+# Biner hasil build (diawali "/" agar tidak mengabaikan internal/server/)
+/server
+/server.exe
+/main
+/main.exe
+/app
+/app.exe
+
+# Environment lokal
+.env
+
+# Coverage & tooling
+*.out
+coverage.html
+.idea/
+.vscode/
